@@ -1,0 +1,11 @@
+{
+  "name": "Example",
+  "description": "This is an example plugin.",
+  "author": "BlueWhaleYT",
+  "actions": [
+    {
+      "className": "com.bluewhaleyt.example_plugin.ExampleAction",
+      "text": "Example Action"
+    }
+  ]
+}
